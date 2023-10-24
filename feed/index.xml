@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ebba och Anders 2024</title>
+	<atom:link href="https://seleniussofia.github.io/ebba-och-anders/feed/" rel="self" type="application/rss+xml" />
+	<link>https://seleniussofia.github.io/ebba-och-anders</link>
+	<description>Ebba och Anders 2024</description>
+	<lastBuildDate>Sat, 21 Oct 2023 13:22:10 +0000</lastBuildDate>
+	<language>sv-SE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Hej världen!</title>
+		<link>https://seleniussofia.github.io/ebba-och-anders/2023/10/21/hej-varlden/</link>
+					<comments>https://seleniussofia.github.io/ebba-och-anders/2023/10/21/hej-varlden/#comments</comments>
+		
+		<dc:creator><![CDATA[ebbaochanders]]></dc:creator>
+		<pubDate>Sat, 21 Oct 2023 13:22:10 +0000</pubDate>
+				<category><![CDATA[Okategoriserade]]></category>
+		<guid isPermaLink="false">https://seleniussofia.github.io/ebba-och-anders/?p=1</guid>
+
+					<description><![CDATA[Välkommen till WordPress. Detta är ditt första inlägg. Du kan redigera det eller ta bort det. Sedan är det bara att börja skriva!]]></description>
+										<content:encoded><![CDATA[
+<p>Välkommen till WordPress. Detta är ditt första inlägg. Du kan redigera det eller ta bort det. Sedan är det bara att börja skriva!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://seleniussofia.github.io/ebba-och-anders/2023/10/21/hej-varlden/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
